@@ -27,7 +27,7 @@ Below you will find links to the training code for each model hosted on GitHub a
 
 **Equation detection and extraction:**
 
-[DONUT Code]()
+[DONUT Code](MathVQA/Equation%20Detection%20and%20Extraction/DONUT/DONUT_MathEquation_KIE.ipynb)
 
 
 
