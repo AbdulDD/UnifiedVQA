@@ -8,7 +8,7 @@ Below you will find links to the training code for each model hosted on GitHub a
 ## TASKS
 
 ### DONUT DOCVQA
-**Training Code:** 
+**Training Code:** [GitHub Folder](DocVQA/DONUT/DONUT_DocVQA.ipynb)
 
 
 ## Link to Models
