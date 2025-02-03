@@ -29,6 +29,14 @@ Below you will find links to the training code for each model hosted on GitHub a
 
 [DONUT Code](MathVQA/Equation%20Detection%20and%20Extraction/DONUT/DONUT_MathEquation_KIE.ipynb)
 
+[Nougat Code](MathVQA/Equation%20Detection%20and%20Extraction/Nougat/NOUGAT_MathEquation_KIE.ipynb)
+
+[Idefics2 Code](MathVQA/Equation%20Detection%20and%20Extraction/Idefics2/Idefics2_MathEquation_KIE.ipynb)
+
+[YoloV9 Code](MathVQA/Equation%20Detection%20and%20Extraction/YoloV9/YoloV9_EquationDetection.ipynb)
+
+[TrOCR Code](MathVQA/Equation%20Detection%20and%20Extraction/TrOCR/TrOCR_MathEquations_Recognition.ipynb)
+
 
 
 
