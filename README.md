@@ -23,6 +23,12 @@ Below you will find links to the training code for each model hosted on GitHub a
 
 [Nougat Code](RCVQA/Nougat/Nougat_RCVQA.ipynb)
 
+### MathVQA
+
+**Equation detection and extraction:**
+
+[DONUT Code](MathVQA/Detection/DONUT_RCVQA.ipynb)
+
 
 
 
