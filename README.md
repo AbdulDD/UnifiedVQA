@@ -7,8 +7,13 @@ Below you will find links to the training code for each model hosted on GitHub a
 
 ## TASKS
 
-### DONUT DOCVQA
-**Training Code:** [GitHub Folder](DocVQA/DONUT/DONUT_DocVQA.ipynb)
+### DOCVQA
+**DONUT Code:** [GitHub Folder](DocVQA/DONUT/DONUT_DocVQA.ipynb)
+**Nougat Code:** [GitHub Folder](DocVQA/Nougat/Nougat_DocVQA.ipynb)
+**Florance2 Code:** [GitHub Folder](DocVQA/Florance2/Florance2_DocVQA.ipynb)
+**Idefics2 Code:** [GitHub Folder](DocVQA/Idefics2/Idefics2_DocVQA.ipynb)
+
+
 
 
 ## Link to Models
