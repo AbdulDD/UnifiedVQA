@@ -17,6 +17,13 @@ Below you will find links to the training code for each model hosted on GitHub a
 
 [Idefics2](DocVQA/Idefics2/Idefics2_DocVQA.ipynb)
 
+### RCVQA
+
+[DONUT Code](RCVQA/DONUT/DONUT_RCVQA.ipynb)
+
+[Nougat Code](RCVQA/Nougat/Nougat_RCVQA.ipynb)
+
+
 
 
 
