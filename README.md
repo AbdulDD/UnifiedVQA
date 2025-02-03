@@ -38,7 +38,15 @@ Below you will find links to the training code for each model hosted on GitHub a
 [TrOCR Code](MathVQA/Equation%20Detection%20and%20Extraction/TrOCR/TrOCR_MathEquations_Recognition.ipynb)
 
 
+**Latex to Math and solver:**
 
+[Latex to Math and Solver](MathVQA/LLM%20and%20Math%20Solver/LLM_MathSolver.ipynb)
+
+**Math Pipeline (MAP):**
+
+[Modular MAP](MathVQA/MAP%20(Math%20pipelines)/Modular%20MAP/Yolo9_TrOCR_MathSolver_Pipeline.ipynb)
+
+[Enhanced MAP](MathVQA/MAP%20(Math%20pipelines)/Enhanced%20MAP/DONUT_MathSolver_Pipeline.ipynb)
 
 
 ## Link to Models
