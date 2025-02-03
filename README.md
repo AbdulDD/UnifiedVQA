@@ -48,6 +48,9 @@ Below you will find links to the training code for each model hosted on GitHub a
 
 [Enhanced MAP](MathVQA/MAP%20(Math%20pipelines)/Enhanced%20MAP/DONUT_MathSolver_Pipeline.ipynb)
 
+**UnifiedVQA**
+
+[UnifiedVQA Approach](UnifiedVQA%20Approach/UnifiedVQA_Approach.ipynb)
 
 ## Link to Models
 [Kaggle Link](https://kaggle.com/datasets/8dd270c140da54ca2ce135472570b4f2ca44262ffc178ae47edb30bb9c05a0ee)
