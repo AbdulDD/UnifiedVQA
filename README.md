@@ -5,7 +5,7 @@ Welcome to our novel VQA approach' repository. This repository is dedicated to d
 
 Below you will find links to the training code for each model hosted on GitHub and the corresponding model weights stored on kaggle.
 
-## TASKS
+## SOURCE CODES
 
 ### DOCVQA
 
