@@ -56,5 +56,7 @@ Below you will find links to the training code for each model hosted on GitHub a
 [Link to Model Weights](https://kaggle.com/datasets/8dd270c140da54ca2ce135472570b4f2ca44262ffc178ae47edb30bb9c05a0ee)
 
 ## Datasets
-[Link to Model Weights](https://kaggle.com/datasets/8dd270c140da54ca2ce135472570b4f2ca44262ffc178ae47edb30bb9c05a0ee)
+[DocVQA dataset](https://huggingface.co/datasets/AbdulMuqtadir/DocVQA_Processed_Dataset)
+[RCVQA dataset](https://huggingface.co/datasets/AbdulMuqtadir/RCVQA_Dataset)
+[MathVQA dataset](https://huggingface.co/datasets/AbdulMuqtadir/Latex_Math_Documents)
 
